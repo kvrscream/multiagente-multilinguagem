@@ -1,0 +1,17 @@
+llama-index
+llama-index-embeddings-huggingface
+llama-index-llms-ollama
+llama-index-embeddings-ollama
+llama-index-embeddings-fastembed
+fastembed
+llama-index-vector-stores-chroma
+llama-index-llms-google-genai
+google-genai
+pymupdf
+llama-index-readers-file
+rank-bm25
+llama-index-retrievers-bm25
+python-dotenv
+gradio
+
+

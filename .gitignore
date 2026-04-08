@@ -1,0 +1,10 @@
+# paths
+env/*
+
+# envs
+.env
+GEMINI.md
+
+# db
+
+db/*
